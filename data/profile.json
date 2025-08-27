@@ -13,11 +13,11 @@
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       }
     ],
     "softSkills": [
@@ -37,12 +37,12 @@
   "portfolio": [
     {
       "name": "Criação de uma Pokedex orientada pelo curso de JS da DIO",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/amyroly/desafioPokedex",
       "github": true
     },
     {
       "name": "Criação da landing page do Youtube no curso de CSS da DIO",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/amyroly/trilha-css-desafio02",
       "github": true
     }
   ],
